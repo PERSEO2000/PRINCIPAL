@@ -1,5 +1,5 @@
 setTimeout(function(){
   var video = document.getElementById('background-video');
   video.pause();
-  location.href="/web/otro.html";
+  location.href="otro.html";
 },5000);
