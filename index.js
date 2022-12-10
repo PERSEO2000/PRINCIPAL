@@ -7,6 +7,6 @@ window.onload = function() {
 
 
 setTimeout(function(){
-  location.href="/web/otro.html";
+  location.href="otro.html";
 },5000);
 
