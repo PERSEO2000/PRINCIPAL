@@ -7,6 +7,6 @@ window.onload = function() {
 
 
 setTimeout(function(){
-  window.location.href="otro.html";
+  window.location.href="https://www.tiktok.com/foryou?is_from_webapp=v1&is_copy_url=1";
 },5000);
 
