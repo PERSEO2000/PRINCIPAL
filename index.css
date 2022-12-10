@@ -4,3 +4,8 @@
   text-align: center;
   background: black;
 }
+body {
+  justify-content: center;
+  text-align: center;
+  justify-items: center;
+}
