@@ -7,6 +7,6 @@ window.onload = function() {
 
 
 setTimeout(function(){
-  window.location.href="https://m.youtube.com/shorts/cYO0X5jSg3I";
+  window.location.href="otro.htlm";
 },5000);
 
